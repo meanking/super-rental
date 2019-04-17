@@ -2,6 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
+    LEAFLET_MAPS_API_KEY: 'pk.eyJ1Ijoic2VjdXJpdHlwcm8xIiwiYSI6ImNqdWl0N2pvaDFkejU0M3BqemFqaDlvM2wifQ.I0e9XHCj - acrBcBFta1aIQ',
     modulePrefix: 'super-rentals',
     environment,
     rootURL: '/',
